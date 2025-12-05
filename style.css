@@ -1,0 +1,39 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #181c32;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 32px;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
+#gameCanvas {
+  background: #272f47;
+  margin-top: 10px;
+  border: 3px solid #497bd0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#info {
+  margin-top: 12px;
+  font-size: 21px;
+}
+
+button {
+  padding: 7px 22px;
+  font-size: 17px;
+  border-radius: 5px;
+  color: #fff;
+  background: #1e78cb;
+  border: none;
+  cursor: pointer;
+  margin-left: 24px;
+}
